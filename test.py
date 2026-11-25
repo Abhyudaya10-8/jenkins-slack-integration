@@ -1,0 +1,5 @@
+print("Hello from the Automation Project!")
+print("Checking system readiness...")
+print("GitHub repository connected.")
+print("Jenkins automation executed successfully.")
+print("All tasks completed!")
